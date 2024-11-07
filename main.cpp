@@ -30,7 +30,7 @@ int main() {
     ELEM<int> a={1, 2, 3};
 
     printElem(a);
-
+    cout << endl;
 
     return 0;
 }
